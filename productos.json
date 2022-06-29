@@ -1,0 +1,20 @@
+[
+    {
+      "nombre": "Intel I5",
+      "precio": 22000,
+      "imagen": "https://mexx-img-2019.s3.amazonaws.com/tumb_37558_1.jpeg",
+      "id": 1
+    },
+    {
+      "nombre": "Intel Core I7 10700F 4.8Ghz",
+      "precio": 45000,
+      "imagen": "https://mexx-img-2019.s3.amazonaws.com/tumb_39187_1.jpeg",
+      "id": 2
+    },
+    {
+      "nombre": "Placa de video GeForce RTX 3060TI 8gb Asus",
+      "precio": 170000,
+      "imagen": "https://mexx-img-2019.s3.amazonaws.com/tumb_placa-video-rtx_41144_2.jpeg?v998",
+      "id": 3
+    }
+  ]
